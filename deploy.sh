@@ -23,7 +23,3 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-<<<<<<< HEAD
-=======
-
->>>>>>> 1560559ae08aaff65025b5748d164e968f9397e7

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://mfahim.github.io/"
+=======
+baseURL = "https://mfahim.github.io/blog"
+>>>>>>> 1560559ae08aaff65025b5748d164e968f9397e7
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Mohammad Fahim"

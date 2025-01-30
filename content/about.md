@@ -3,9 +3,7 @@ title = "About This Blog"
 date = "2015-04-09"
 +++
 
-Mohammad Fahim is a Software developer and his career focus has been on the building of online software solutions resulting in a deep understanding of the technologies used and challenges faced when working in this space.
-
-He is interested in the full lifecycle of software solution delivery utilizing Agile techniques and enjoy helping to build high-performance teams.
+Mohammad Fahim is a seasoned lead software developer with a strong background in building online software solutions. He's well-versed in the full development lifecycle and skilled at using Agile methods to deliver successful projects.
 
 His current path is more on cloud engineering principles:
 

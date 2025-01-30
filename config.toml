@@ -1,4 +1,4 @@
-baseURL = "https://mfahim.github.io/Blog"
+baseURL = "https://mfahim.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Notes to Myself on Software Development"

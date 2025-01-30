@@ -10,10 +10,6 @@ This repository contains the source code for my personal blog, where I share my 
 
 This blog is built using the following technologies:
 
-Static Site Generation: Built using [Your Static Site Generator, e.g., Jekyll, Hugo, etc.]
-Responsive Design: Optimized for reading on desktop, tablet, and mobile devices
-Customizable: Easily modify layout, colors, and fonts to suit your taste
-
 - **[Static Site Generator or Framework]:** [Hugo]
 - **[Styling Framework/Library]:** [CSS Modules]
 - **[Content Format]:** [Markdown]
